@@ -32,7 +32,6 @@ presentations.
 Tools:
 - **SQL**
 - **Power BI**
-#### Dashboard
 ![dashboard](https://github.com/colinryanx/Hotel-Performance-Project/assets/171652558/0ab1f31d-7d1d-4acb-a83f-9d20b06f87c0)
 
 ***
@@ -43,7 +42,6 @@ Tools:
 Tools:
 - **Python**
 - **Tableau**
-#### Dashboard
 ![London Bike Rides](https://github.com/colinryanx/London-Bicycle-Rides/assets/171652558/220984f1-4660-4415-9968-4888b58524c1)
 
 ***
@@ -53,7 +51,6 @@ Tools:
 #### Analysis of the Gross Profit, Quantity, and Sales Performance of the Plant Co for years 2023 and 2024.
 Tools:
 - **PowerBI**
-#### Dashboard
 ![Plant Co  Gross Profit Performance 2023](https://github.com/colinryanx/Plant-Co/assets/171652558/2d688e7c-0216-4ea8-96b7-fa2dc9645a14)
 
 ***
@@ -64,7 +61,6 @@ Tools:
 #### Analysis and creation of an Executive Summary Report on the latest sales figures.
 Tools:
 - **Power BI**
-#### Dashboard
 ![FINANCIAL DASHBOARD DEMO](https://github.com/colinryanx/Financial-Dashboard-DataSenseAnalytics/assets/171652558/e5c4de29-9027-4065-acf2-5ae07b19514f)
 
 ***
@@ -74,5 +70,4 @@ Tools:
 #### Analysis of a Coffee business's data to make informed decisions to drive growth, enhance customer satisfaction, and optimize its product offerings.
 Tools:
 - **Excel**
-#### Dashboard
 ![1](https://github.com/colinryanx/Coffee-Sales/assets/171652558/58e49281-f908-4603-a800-c3a663abdb6f)
