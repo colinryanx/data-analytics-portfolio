@@ -16,12 +16,12 @@ presentations.
 - Provides administrative assistance to the EVP and other executives of the bank’s retail banking department.
 
 ## Trainings and Certifications
-- Microsoft Power BI Data Analyst Professional Certificate
-- Google Data Analytics Professional Certificate
-- Business Intelligence with POWER BI (Power Query and M Code)
-- Fundamentals of Statistics with MS Excel
-- Principles of Graphic Design
-- Advanced Microsoft Excel
-- Microsoft Excel Essentials
+- Microsoft Power BI Data Analyst Professional Certificate | Microsoft
+- Google Data Analytics Professional Certificate | Google
+- Business Intelligence with POWER BI (Power Query and M Code) | DataSense Analytics
+- Fundamentals of Statistics with MS Excel | DataSense Analytics
+- Advanced Microsoft Excel | Trainspire I.T. Training Services
+- Microsoft Excel Essentials | Trainspire I.T. Training Services
+- Principles of Graphic Design | University of the Philippines Open University
 
 ## Personal Projects
