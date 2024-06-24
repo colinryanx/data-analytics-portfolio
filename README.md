@@ -3,7 +3,7 @@
 ### Technical Skills: Excel, Power BI, Tableau, SQL, Python, VBA
 
 ## Education
-- Bachelor's Degree in Banking and Finance - Polytechnic University of the Philippines (_2019_)
+- Bachelor's Degree in Banking and Finance | Polytechnic University of the Philippines (_2019_)
 
 ## Work Experience
 **Administrative Assistant (_MIS/Reports_) (_Aug 2019 - Present_)**
