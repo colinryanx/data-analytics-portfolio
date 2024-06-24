@@ -26,40 +26,41 @@ presentations.
 
 ## Personal Projects
 
-### SQL
+### 1. Hotel Performance Report
+[Project Link](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/README.md)
 
-| Project Link | Area | Project Description | Code Link |
-|---|---|---|---|
-| 🏨 [Hotel Performance](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/README.md) | Exploratory Data analysis and Data Transformation for loading to Power BI | It showcases my ability to utilize various SQL queries to generate quick insights and demonstrates my proficiency in SQL query writing. | [Code](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/Hotel%20Performance%20Analysis.md)
+#### Analysis of the historical booking data to identify key factors affecting hotel revenue, booking patterns, and customer behavior.
+Tools used:
+- **SQL** - Exploratory Data analysis and Data Transformation for loading to Data Visualization Tool
+- **Power BI** - Loaded, Transformed, and Visualized Key Insights using Power BI
 
-***
+### 2. London Bicycle Rides
+[Project Link](https://github.com/colinryanx/London-Bicycle-Rides/blob/main/README.md)
 
-### Python
+#### Analysis and visualization of the trend of bicycle rides in London from 2015 to 2016.
+Tools used:
+- **Python** - Getting Data from Kaggle, Data Exploration, and Data Transformation.
+  - Libraries Used: Pandas, Zipfile, Kaggle
+- **Tableau** - Visualized key insights using Tableau, including the timeline of total bicycle rides on London by moving averages, bicycle rides depending on the weather, bicycle rides relative to Temperature and Wind Speed, and bicycle rides by hour.
 
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
-| 🚴 [London Bicycle Rides](https://github.com/colinryanx/London-Bicycle-Rides/blob/main/README.md) | Getting Data from Kaggle, Data Exploration, and Data Transformation | The purpose is to analyze and visualize the trend of bicycle rides in London from 2015 to 2016. | pandas, zipfile, kaggle
+### 3. Plant Co.
+[Project Link](https://github.com/colinryanx/Plant-Co/blob/main/README.md)
 
-***
+#### Analysis of the Gross Profit, Quantity, and Sales Performance of the Plant Co for years 2023 and 2024.
+Tools Used:
+- **PowerBI** - Loaded Data using Power Query, Utilized DAX, and Visualized Key Insights using Power BI
 
-### Tableau
+### 4. DSA Marketing Ltd. Financial Dashboard
+[Project Link](https://github.com/colinryanx/Financial-Dashboard-DataSenseAnalytics/blob/main/README.md)
+(_[Featured on the DataSense Analytics Facebook page](https://www.facebook.com/photo.php?fbid=237583475707496&set=pb.100083675353136.-2207520000&type=3)_)
 
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-| 🚴 [London Bicycle Rides](https://github.com/colinryanx/London-Bicycle-Rides/blob/main/README.md) | Visualized key insights using Tableau, including the timeline of total bicycle rides on London by moving averages, bicycle rides depending on the weather, bicycle rides relative to Temperature and Wind Speed, and bicycle rides by hour. | [Dashboard](https://public.tableau.com/app/profile/colin.ryan.subido/viz/London_Bikes_Project_17187842296680/LondonBikeRides) |
+#### Analysis and creation of an Executive Summary Report on the latest sales figures.
+Tools Used:
+- **Power BI** - ETL data, Utilization of DAX for dimensions and measures, Exploratory Data Analysis, Visualization of Key-Insights through interactive and dynamic dashboard report.
 
-***
+### Coffee Sales Dashboard
+[Project Link](https://github.com/colinryanx/Coffee-Sales/blob/main/README.md)
 
-### PowerBI
-
-| Project & Visualization Link | Project Description | Dashboard Link |
-|---|---|---|
-| 🏨 [Hotel Performance Report](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/README.md) | Loaded Data using SQL Code, Transformed Data, and Visualized Key Insights using Power BI | [Dashboard](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/Hotel%20Performance%20Report.pdf) |
-| 🌱 [Plant Co.](https://github.com/colinryanx/Plant-Co/blob/main/README.md) | Loaded Data using Power Query, Utilized DAX, and Visualized Key Insights using Power BI | [Dashboard](https://github.com/colinryanx/Plant-Co/blob/main/Plant%20Co.%20Performance.pdf) |
-| 📈 [DSA Marketing Ltd. Financial Dashboard](https://github.com/colinryanx/Financial-Dashboard-DataSenseAnalytics/blob/main/README.md) | **[Featured on the DataSense Analytics Facebook page](https://www.facebook.com/photo.php?fbid=237583475707496&set=pb.100083675353136.-2207520000&type=3).** Output from the 6 hour Business Intelligence with POWER BI (Power Query and M Code) Training by DataSense Analytics. | [Dashboard](https://github.com/colinryanx/Financial-Dashboard-DataSenseAnalytics/blob/main/DSA%20Marketing%20Ltd.%20Financial%20Dashboard.pdf) |
-
-### Excel
-
-| Project Link | Project Description |
-|---|---|
-| ☕ [Coffee Sales Dashboard](https://github.com/colinryanx/Coffee-Sales/blob/main/README.md) | Created a summary out of the Coffee Sales Dataset. Transformed the orders worksheet getting data from the customers and products worksheets using advanced excel formulas such as XLOOKUP, INDEXMATCH, VLOOKUP, and etc. Then Created a Coffee Sales Dashboard using built-in excel chart functions |
+#### Analysis of a Coffee business's data to make informed decisions to drive growth, enhance customer satisfaction, and optimize its product offerings.
+Tools Used:
+- **Excel** - Data Cleaning, Utilization of Advanced Excel Functions such as XLOOKUP, INDEXMATCH, VLOOKUP, and PIVOT TABLE, Creation of Charts and a Dashboard using MS Excel's built-in function.
