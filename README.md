@@ -18,7 +18,8 @@ presentations.
 ## Trainings and Certifications
 - Microsoft Power BI Data Analyst Professional Certificate
   - Microsoft
-- Google Data Analytics Professional Certificate | Google
+- Google Data Analytics Professional Certificate
+  - Google
 - Business Intelligence with POWER BI (Power Query and M Code)
   - DataSense Analytics 
 - Fundamentals of Statistics with MS Excel
