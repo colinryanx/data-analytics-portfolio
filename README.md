@@ -1,4 +1,4 @@
-# Data Analytics
+# Data Analytics Portfolio
 
 ### Technical Skills: Excel, SQL, Power BI, Tableau, Python
 
