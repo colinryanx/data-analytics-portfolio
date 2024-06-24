@@ -1,6 +1,6 @@
 # Data Analytics
 
-### Technical Skills: Excel, Power BI, Tableau, SQL, Python, VBA
+### Technical Skills: Excel, SQL, Power BI, Tableau, Python
 
 ## Education
 - Bachelor's Degree in Banking and Finance | Polytechnic University of the Philippines (_2019_)
