@@ -68,4 +68,4 @@ Tool/s: **Power BI**
 #### Analysis of a Coffee business's data to make informed decisions to drive growth, enhance customer satisfaction, and optimize its product offerings.
 Tool/s: **Excel**
 
-![1](https://github.com/colinryanx/Coffee-Sales/assets/171652558/58e49281-f908-4603-a800-c3a663abdb6f)
+![2](https://github.com/colinryanx/Coffee-Sales/assets/171652558/c9a44cbb-93f6-4ccf-826c-bf49f76f58f8)
