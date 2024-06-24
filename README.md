@@ -6,7 +6,7 @@
 - Bachelor's Degree in Banking and Finance | Polytechnic University of the Philippines (_2019_)
 
 ## Work Experience
-** Administrative Assistant (_MIS/Reports_) (_Aug 2019 - Present_)**
+**Administrative Assistant (_MIS/Reports_) (_Aug 2019 - Present_)**
 - Cleans and maintains spreadsheet files with over 70,000 rows of extracted data using Excel & 
 Power Query.
 - Performs daily analysis and creates daily reports in Excel to monitor the deposit levels of the retail banking group.
