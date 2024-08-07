@@ -7,13 +7,13 @@
 
 ## Work Experience
 **Administrative Assistant (MIS/Reports) (_Aug 2019 - Present_)**
-- Cleans and maintains spreadsheet files with over 70,000 rows of extracted data using Excel & 
-Power Query.
-- Performs daily analysis and creates daily reports in Excel to monitor the deposit levels of the retail banking group.
-- Analyzes various data and prepares key visual reports to aid executives in decision-making and their 
-presentations.
-- Collaborates with other departments to create collective summaries and reports of the bank’s products.
-- Provides administrative assistance to the EVP and other executives of the bank’s retail banking department.
+- Cleans and maintains spreadsheet files with over 70,000 rows of extracted data using Excel & Power Query.
+- Performs daily analysis and creates daily reports to monitor the bank’s daily deposit performance.
+- Prepares key performance reports, aiding executives in their presentations and in creating data-driven decisions and actions.
+- Collaborates with other departments to create collective summaries regarding bank products.
+- Assists in the preparation of the retail banking group’s periodic performance and financial summary reports.
+- Provides administrative assistance to the retail banking group’s EVP and other management staff.
+- Provides data-related assistance to other departments and employees.
 
 ## Trainings and Certifications
 - Microsoft Power BI Data Analyst Professional Certificate (_Microsoft, April 2024_)
