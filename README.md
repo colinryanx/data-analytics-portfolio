@@ -5,15 +5,13 @@
 ## Education
 - Bachelor's Degree in Banking and Finance | Polytechnic University of the Philippines (_2019_)
 
-## Work Experience
+## Related Work Experience
 **Administrative Assistant (MIS/Reports) (_Aug 2019 - Present_)**
 - Cleans and maintains spreadsheet files with over 70,000 rows of extracted data using Excel & Power Query.
-- Performs daily analysis and creates daily reports to monitor the bank’s daily deposit performance.
-- Prepares key performance reports, aiding executives in their presentations and in creating data-driven decisions and actions.
-- Collaborates with other departments to create collective summaries regarding bank products.
-- Assists in the preparation of the retail banking group’s periodic performance and financial summary reports.
-- Provides administrative assistance to the retail banking group’s EVP and other management staff.
-- Provides data-related assistance to other departments and employees.
+- Conducts daily analysis and creates daily reports to track the bank’s deposit performance.
+- Prepares key performance reports that support executives in presentations and enable data-driven decision-making and strategic planning.
+- Collaborates with other departments to develop comprehensive summaries on bank products.
+- Assists in the preparation of periodic performance and financial summary reports for the retail banking group.
 
 ## Trainings and Certifications
 - Microsoft Power BI Data Analyst Professional Certificate (_Microsoft, April 2024_)
