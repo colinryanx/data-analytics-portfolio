@@ -6,7 +6,7 @@
 - Bachelor's Degree in Banking and Finance | Polytechnic University of the Philippines (_2019_)
 
 ## Related Work Experience
-**Administrative Assistant (MIS/Reports) (_Aug 2019 - Present_)**
+**Administrative Assistant (Reporting Analyst/MIS) (_Aug 2019 - Present_)**
 - Cleans and maintains spreadsheet files with over 70,000 rows of extracted data using Excel & Power Query.
 - Conducts daily analysis and creates daily reports to track the bank’s deposit performance.
 - Prepares key performance reports that support executives in presentations and enable data-driven decision-making and strategic planning.
