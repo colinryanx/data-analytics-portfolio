@@ -10,7 +10,7 @@
 **Data & Financial Analyst | Home Care Consulting Group (HCCG)** *(Remote / New York, US)*
 *October 2024 – Present*
 - Mentors and leads a PH-based operations team of offshore employees, optimizing daily workflow distributions to manage complex, multi-schedule financial datasets for 100+ healthcare clients.
-- Engineers and audits state regulatory data pipelines, ensuring accurate compilation and zero-error filing of Consolidated Fiscal Reports (CFRs), Statistical Reports, and NHTD/TBI Cost Reports.
+- Prepared and analyzed state regulatory data pipelines, ensuring accurate compilation and zero-error filing of Consolidated Fiscal Reports (CFRs), Statistical Reports, and NHTD/TBI and Home Care Cost Reports.
 - Streamlines data entry and validation models for high-volume filings, including multi-year LS300 and LS301 structures, maintaining strict compliance data thresholds for state audit readiness.
 - Cleans, reconciles, and normalizes raw multi-entity transactional records, transforming chaotic agency utilization metrics into structured visual reporting models.
 
