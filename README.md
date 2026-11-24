@@ -28,7 +28,7 @@
 - Conceptualized and deployed an internal online banking enrollment tracker for staff, resulting in a 96% employee enrollment rate.
 
 ## Trainings and Certifications
-- Microsoft Power BI Data Analyst Professional Certificate (_Microsoft, April 2023_)
+- Microsoft Power BI Data Analyst Professional Certificate (_Microsoft, April 2024_)
 - Google Data Analytics Professional Certificate (_Google, July 2023_)
 - Business Intelligence with POWER BI (Power Query and M Code) (_DataSense Analytics, June 2023_)
 - Fundamentals of Statistics with MS Excel (_DataSense Analytics, May 2023_)
