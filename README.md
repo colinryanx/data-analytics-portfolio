@@ -6,15 +6,19 @@
 - Bachelor's Degree in Banking and Finance | Polytechnic University of the Philippines (_2019_)
 
 ## Related Work Experience
-**Administrative Assistant (Reporting Analyst/MIS) (_Aug 2019 - Present_)**
-- Cleans and maintains spreadsheet files with over 70,000 rows of extracted data using Excel & Power Query.
-- Conducts daily analysis and creates daily reports to track the bank’s deposit performance.
-- Prepares key performance reports that support executives in presentations and enable data-driven decision-making and strategic planning.
-- Collaborates with other departments to develop comprehensive summaries on bank products.
-- Assists in the preparation of periodic performance and financial summary reports for the retail banking group.
+**Lead Data & Financial Analyst | US Financial & Healthcare Consulting (Remote)** *(Oct 2023 - Present)*
+- Mentors and leads a PH-based operations team of offshore employees, optimizing workflow distributions across multi-schedule financial datasets for 100+ clients.
+- Engineers and audits complex US state regulatory data pipelines (CFR, Statistical Reports, LS300/301, NHTD/TBI Cost Reports) for zero-error audit readiness.
+- Executes financial forecasting, due diligence, and variance analysis across multi-entity portfolios to construct predictive executive dashboards.
+
+**Administrative Associate – MIS & Data Analyst | Sterling Bank of Asia** *(Aug 2019 - Oct 2023)*
+- Developed automated data cleaning pipelines for 70,000+ rows of retail banking records using Advanced Excel and Power Query.
+- Engineered 9 daily automated reports to monitor the portfolio performance of 47 bank branches nationwide.
+- Prepared executive performance and financial summary dashboards for the Retail Banking EVP to support strategic planning.
+
 
 ## Trainings and Certifications
-- Microsoft Power BI Data Analyst Professional Certificate (_Microsoft, April 2024_)
+- Microsoft Power BI Data Analyst Professional Certificate (_Microsoft, April 2023_)
 - Google Data Analytics Professional Certificate (_Google, July 2023_)
 - Business Intelligence with POWER BI (Power Query and M Code) (_DataSense Analytics, June 2023_)
 - Fundamentals of Statistics with MS Excel (_DataSense Analytics, May 2023_)
@@ -24,12 +28,13 @@
 
 ## Personal Projects
 
-### 1. Hotel Performance Report
-**[Project Link](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/README.md)**
-#### Analysis of the historical booking data to identify key factors affecting hotel revenue, booking patterns, and customer behavior.
-Tool/s: **SQL** & **Power BI**
+### 1. DSA Marketing Ltd. Financial Dashboard
+(_[Featured on the DataSense Analytics Facebook page](https://www.facebook.com/photo.php?fbid=237583475707496&set=pb.100083675353136.-2207520000&type=3)_) <br />
+**[Project Link](https://github.com/colinryanx/Financial-Dashboard-DataSenseAnalytics/blob/main/README.md)**
+#### Analysis and creation of an Executive Summary Report on the latest sales figures.
+Tool/s: **Power BI**
 
-![dashboard](https://github.com/colinryanx/Hotel-Performance-Project/assets/171652558/0ab1f31d-7d1d-4acb-a83f-9d20b06f87c0)
+![FINANCIAL DASHBOARD DEMO](https://github.com/colinryanx/Financial-Dashboard-DataSenseAnalytics/assets/171652558/e5c4de29-9027-4065-acf2-5ae07b19514f)
 
 ***
 
@@ -51,13 +56,12 @@ Tool/s: **PowerBI**
 
 ***
 
-### 4. DSA Marketing Ltd. Financial Dashboard
-(_[Featured on the DataSense Analytics Facebook page](https://www.facebook.com/photo.php?fbid=237583475707496&set=pb.100083675353136.-2207520000&type=3)_) <br />
-**[Project Link](https://github.com/colinryanx/Financial-Dashboard-DataSenseAnalytics/blob/main/README.md)**
-#### Analysis and creation of an Executive Summary Report on the latest sales figures.
-Tool/s: **Power BI**
+### 4. Hotel Performance Report
+**[Project Link](https://github.com/colinryanx/Hotel-Performance-Project/blob/main/README.md)**
+#### Analysis of the historical booking data to identify key factors affecting hotel revenue, booking patterns, and customer behavior.
+Tool/s: **SQL** & **Power BI**
 
-![FINANCIAL DASHBOARD DEMO](https://github.com/colinryanx/Financial-Dashboard-DataSenseAnalytics/assets/171652558/e5c4de29-9027-4065-acf2-5ae07b19514f)
+![dashboard](https://github.com/colinryanx/Hotel-Performance-Project/assets/171652558/0ab1f31d-7d1d-4acb-a83f-9d20b06f87c0)
 
 ***
 
