@@ -7,7 +7,7 @@
 
 ## Related Work Experience
 
-**Lead Data & Financial Analyst | Home Care Consulting Group (HCCG)** *(Remote / New York, US)*
+**Data & Financial Analyst | Home Care Consulting Group (HCCG)** *(Remote / New York, US)*
 *October 2024 – Present*
 - Mentors and leads a PH-based operations team of offshore employees, optimizing daily workflow distributions to manage complex, multi-schedule financial datasets for 100+ healthcare clients.
 - Engineers and audits state regulatory data pipelines, ensuring accurate compilation and zero-error filing of Consolidated Fiscal Reports (CFRs), Statistical Reports, and NHTD/TBI Cost Reports.
