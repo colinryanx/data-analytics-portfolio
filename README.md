@@ -9,25 +9,25 @@
 
 **Data & Financial Analyst | Home Care Consulting Group (HCCG)** *(Remote / New York, US)*
 *October 2024 – Present*
-- Mentored and led a PH-based offshore operations team, organizing daily workflows to manage complex financial datasets for 100+ healthcare clients.
-- Prepared and analyzed state regulatory data pipelines, ensuring accurate, error-free filings of Consolidated Fiscal Reports (CFRs), Statistical Reports, and NHTD/TBI and Home Care Cost Reports.
-- Streamlined data entry and validation templates for high-volume filings, including multi-year LS300 and LS301 forms, keeping client records accurate and audit-ready.
-- Cleaned, reconciled, and standardized multi-entity transaction records, turning raw agency data into clear, structured reporting models.
-- Worked closely with the Director of Reporting to design and improve a custom internal CRM portal that replaced manual Google Sheets trackers, defining feature requirements, running User Acceptance Testing (UAT), and improving multi-client workflow visibility.
+- Led and mentored a PH-based remote operations team, organizing daily workflows to manage complex financial data for 100+ US healthcare clients.
+- Prepared, analyzed, and checked state regulatory reports (CFRs, Statistical Reports, and Home Care Cost Reports) to ensure accurate, error-free government filings.
+- Prepared multi-year LS300 forms for Medicaid submission by calculating contract hours and wages, and reconciled LS301 filings by matching payroll reports, service logs, and billed contract hours to catch billing discrepancies before submission.
+- Cleaned and organized raw multi-company records into clear, structured financial reports.
+- Worked directly with the Director of Reporting to help design and test a new internal CRM portal that replaced slow Google Sheets trackers, improving how the team tracks client progress.
 
 **Data & Financial Analyst (Concurrent) | Accountability Business Consulting LLC** *(Remote / New York, US)*
 *October 2024 – Present*
-- Built financial forecasting models and historical trend analyses to support client health checks, strategic planning, and business growth tracking.
-- Conducted data due diligence and variance analysis on client investment portfolios to identify operational risks and financial discrepancies.
-- Extracted and combined financial data from multiple accounting systems to build clean, predictive dashboards for company executives.
+- Reconciled bank statements against QuickBooks transactions and tracked historical financial trends to support client profitability reviews, strategic planning, and business growth tracking.
+- Reviewed financial records and ran due diligence checks on client portfolios to spot risks, missing data, and cost discrepancies.
+- Pulled and combined data from QuickBooks and other accounting systems to create clean, easy-to-read executive dashboards.
 
 **Administrative Associate – MIS & Data Analyst | Sterling Bank of Asia** *(San Juan City, Metro Manila, PH)*
 *August 2019 – February 2026*
-- Developed and automated data cleaning pipelines for over 70,000 rows of retail banking records using Advanced Excel and Power Query, reducing manual processing times and ensuring data integrity.
-- Analyzed daily banking data and created 9 automated reports to monitor and track the retail portfolio performance of 47 bank branches nationwide.
-- Prepared high-level performance metrics and financial summary dashboards, providing the Executive Vice President (EVP) and senior leadership with critical visual insights for executive presentations.
-- Conceptualized and deployed an internal online banking enrollment tracker for staff, helping achieve a 96% employee enrollment rate.
-
+- Cleaned and organized over 70,000 rows of customer banking records using Excel and Power Query, saving time and preventing data errors.
+- Analyzed daily banking data and built 9 automated Excel reports to track sales and performance across 47 branches nationwide.
+- Created clear financial summary dashboards to help the Executive Vice President (EVP) and senior managers make fast business decisions.
+- Built an internal tracking report for employee online banking sign-ups, helping the bank reach a 96% staff enrollment rate.
+  
 ## Trainings and Certifications
 - Data Analyst Associate (_DataCamp, September 2024_)
 - Microsoft Power BI Data Analyst Professional Certificate (_Microsoft, April 2024_)
